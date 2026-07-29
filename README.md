@@ -171,10 +171,8 @@ Measures:
 
 This project demonstrates how Python-based data analytics can improve IT service management by identifying ticket trends, monitoring support performance, evaluating SLA compliance, and providing insights for better operational decision-making.
 
----
 
 
 
----
 
-⭐ If you found this project helpful, feel free to star this repository.# IT-Service-Desk-Analytics-using-Python
+
