@@ -140,7 +140,7 @@ Measures:
 ### 1. Monthly Trend of IT Support Tickets
 
 <p align="center">
-  <img src="images/MonthlyTrend.png" width="600">
+  <img src="images/Monthly%20Trend.png" alt="Monthly Trend" width="600">
 </p>
 
 ---
@@ -174,6 +174,7 @@ Measures:
 <p align="center">
   <img src="images/corr%20heatmap.png" width="600">
 </p>
+
 ## 🔍 Key Findings
 
 - January recorded the highest ticket volume.
