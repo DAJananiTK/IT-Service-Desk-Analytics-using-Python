@@ -135,6 +135,35 @@ Measures:
 - Average Resolution Hours by Service and Priority (Heatmap)
 
 ---
+## 📊 Key Visualizations
+
+### 1. Monthly Trend of IT Support Tickets
+
+![Monthly Trend](images/MonthlyTrend.png)
+
+---
+
+### 2. Distribution of Tickets by Status
+
+![Ticket Status](images/ticket%20status.png)
+
+---
+
+### 3. Support Channel vs Resolution Status
+
+![Channel vs Status](images/channel%20vs%20status.png)
+
+---
+
+### 4. Actual Resolution Hours vs SLA Breach Minutes
+
+![Actual vs Breach](images/actual%20vs%20breach.png)
+
+---
+
+### 5. Correlation Heatmap
+
+![Correlation Heatmap](images/corr%20heatmap.png)
 
 ## 🔍 Key Findings
 
