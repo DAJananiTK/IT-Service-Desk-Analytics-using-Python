@@ -138,20 +138,29 @@ Measures:
 ## 📊 Key Visualizations
 
 ### 1. Monthly Trend of IT Support Tickets
-<img src="images/monthly_trend.png" width="700">
+<p align="center">
+  <img src="images/monthly_trend.png" width="700"/>
+</p>
 
 ### 2. Distribution of Tickets by Status
-<img src="images/ticket_status.png" width="700">
+<p align="center">
+  <img src="images/ticket_status.png" width="700"/>
+</p>
 
 ### 3. Support Channel vs Resolution Status
-<img src="images/channel_vs_status.png" width="700">
+<p align="center">
+  <img src="images/channel_vs_status.png" width="700"/>
+</p>
 
 ### 4. Actual Resolution Hours vs SLA Breach Minutes
-<img src="images/actual_vs_breach.png" width="700">
+<p align="center">
+  <img src="images/actual_vs_breach.png" width="700"/>
+</p>
 
 ### 5. Correlation Heatmap
-<img src="images/correlation_heatmap.png" width="700">
-
+<p align="center">
+  <img src="images/correlation_heatmap.png" width="700"/>
+</p>
 ## 🔍 Key Findings
 
 - January recorded the highest ticket volume.
