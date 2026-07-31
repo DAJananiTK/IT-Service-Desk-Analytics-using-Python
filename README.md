@@ -138,32 +138,19 @@ Measures:
 ## 📊 Key Visualizations
 
 ### 1. Monthly Trend of IT Support Tickets
-
-![Monthly Trend](images/Monthly%20Trend.png)
-
----
+<img src="images/monthly_trend.png" width="700">
 
 ### 2. Distribution of Tickets by Status
-
-![Ticket Status](images/ticket%20status.png)
-
----
+<img src="images/ticket_status.png" width="700">
 
 ### 3. Support Channel vs Resolution Status
-
-![Channel vs Status](images/channel%20vs%20status.png)
-
----
+<img src="images/channel_vs_status.png" width="700">
 
 ### 4. Actual Resolution Hours vs SLA Breach Minutes
-
-![Actual vs Breach](images/actual%20vs%20breach.png)
-
----
+<img src="images/actual_vs_breach.png" width="700">
 
 ### 5. Correlation Heatmap
-
-![Correlation Heatmap](images/corr%20heatmap.png)
+<img src="images/correlation_heatmap.png" width="700">
 
 ## 🔍 Key Findings
 
