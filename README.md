@@ -139,7 +139,7 @@ Measures:
 
 ### 1. Monthly Trend of IT Support Tickets
 
-![Monthly Trend](images/Monthly Trend.png)
+![Monthly Trend](images/Monthly%20Trend.png)
 
 ---
 
