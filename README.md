@@ -1,10 +1,10 @@
-# 🛠️ IT Service Desk Ticket Analysis Using Python
+#  IT Service Desk Ticket Analysis Using Python
 
 A comprehensive Data Analytics project that analyzes IT Service Desk ticket data using Python to identify ticket trends, evaluate support performance, monitor SLA compliance, and generate actionable business insights for improving IT service management.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes IT Service Desk ticket data using Python in Google Colab. The dataset was cleaned, transformed, and analyzed using Exploratory Data Analysis (EDA), statistical analysis, and data visualization techniques.
 
@@ -19,7 +19,7 @@ The project focuses on understanding:
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze overall ticket distribution and monthly trends.
 - Evaluate ticket resolution performance across priority levels.
@@ -30,7 +30,7 @@ The project focuses on understanding:
 
 ---
 
-## 🗂️ Dataset
+##  Dataset
 
 **Source:** Hugging Face – Mindweave Help Desk Tickets Dataset
 
@@ -48,7 +48,7 @@ Dataset Size:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Python
 - Google Colab
@@ -59,7 +59,7 @@ Dataset Size:
 
 ---
 
-## ⚙️ Data Preprocessing
+##  Data Preprocessing
 
 The following preprocessing steps were performed:
 
@@ -90,7 +90,7 @@ Performed:
 
 ---
 
-## 📈 Statistical Analysis
+##  Statistical Analysis
 
 Calculated statistical measures for:
 
@@ -109,7 +109,7 @@ Measures:
 
 ---
 
-## 📉 Data Visualizations
+##  Data Visualizations
 
 ### Univariate Analysis
 
@@ -135,7 +135,7 @@ Measures:
 - Average Resolution Hours by Service and Priority (Heatmap)
 
 ---
-## 📊 Key Visualizations
+##  Key Visualizations
 
 ### 1. Monthly Trend of IT Support Tickets
 
@@ -175,7 +175,7 @@ Measures:
   <img src="images/corr%20heatmap.png" width="600">
 </p>
 
-## 🔍 Key Findings
+##  Key Findings
 
 - January recorded the highest ticket volume.
 - P3 and P4 were the most common ticket priorities.
@@ -188,7 +188,7 @@ Measures:
 
 ---
 
-## 📌 Types of Analysis
+##  Types of Analysis
 
 - Descriptive Analysis
 - Diagnostic Analysis
@@ -197,7 +197,7 @@ Measures:
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - Analyze larger datasets
 - Apply Machine Learning models
@@ -206,7 +206,7 @@ Measures:
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 This project demonstrates how Python-based data analytics can improve IT service management by identifying ticket trends, monitoring support performance, evaluating SLA compliance, and providing insights for better operational decision-making.
 
